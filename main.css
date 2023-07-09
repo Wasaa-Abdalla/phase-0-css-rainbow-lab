@@ -1,6 +1,8 @@
 Div{
   height: fit-content;
-  width: max-content;
+  width: 70%;
+  padding: 20px;
+  margin: auto;
 
 }
 
@@ -21,14 +23,14 @@ Div{
   border: 3px solid #000;
  }
  #Row5 {
-  background-color: rgb(13, 81, 228);
+  background-color: rgb(6, 234, 250);
   border: 3px solid #000;
  }
  #Row6 {
-  background-color: rgb(182, 142, 194);
+  background-color: rgb(20, 0, 107);
   border: 3px solid #000;
  }
  #Row7 {
-  background-color: rgb(233, 22, 145);
+  background-color: rgb(152, 10, 180);
   border: 3px solid #000;
  }
