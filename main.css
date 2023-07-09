@@ -1,3 +1,8 @@
+body{
+  height: 200px;
+  width: 150px;
+}
+
 div{
   height: fit-content;
   width: 70%;
