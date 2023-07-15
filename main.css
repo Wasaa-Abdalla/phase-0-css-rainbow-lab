@@ -1,42 +1,26 @@
-body{
-  height: 200px;
-  width: 80%;
-  text-align: center;
-}
-
-div{
-  height: fit-content;
-  width: 70%;
+*{
   padding: 0;
   margin: 0;
-
+  box-sizing: border-box;
+}
+body{
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box{
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  border-radius: 50%;
+  box-shadow: 0 0 0 20px red,
+              0 0 0 40px orange,
+              0 0 0 60px yellow,
+              0 0 0 80px green,
+              0 0 0 100px blue,
+              0 0 0 120px indigo,
+              0 0 0 140px violet;
 }
 
-#Row1 {
- background-color: rgb(209, 16, 16);
- 
-}
-#Row2 {
-  background-color: rgb(223, 85, 22);
-  
- }
- #Row3 {
-  background-color: rgb(252, 206, 1);
-  
- }
- #Row4 {
-  background-color: rgb(28, 226, 10);
-  
- }
- #Row5 {
-  background-color: rgb(6, 234, 250);
-  
- }
- #Row6 {
-  background-color: rgb(20, 0, 107);
-  
- }
- #Row7 {
-  background-color: rgb(152, 10, 180);
-  
- }
