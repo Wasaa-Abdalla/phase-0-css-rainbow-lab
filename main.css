@@ -23,4 +23,11 @@ body{
               0 0 0 120px indigo,
               0 0 0 140px violet;
 }
+.box2{
+  width: 500px;
+  height: 200px;
+  background-color: white;
+  position: absolute;
+  top: 50%;
+}
 
