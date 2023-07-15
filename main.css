@@ -15,13 +15,13 @@ body{
   height: 100px;
   background-color: white;
   border-radius: 50%;
-  box-shadow: 0 0 0 20px red,
-              0 0 0 40px orange,
-              0 0 0 60px yellow,
+  box-shadow: 0 0 0 20px violet,
+              0 0 0 40px indigo,
+              0 0 0 60px blue,
               0 0 0 80px green,
-              0 0 0 100px blue,
-              0 0 0 120px indigo,
-              0 0 0 140px violet;
+              0 0 0 100px yellow,
+              0 0 0 120px orange,
+              0 0 0 140px red;
 }
 .box2{
   width: 500px;
